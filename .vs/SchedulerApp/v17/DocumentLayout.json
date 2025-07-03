@@ -262,8 +262,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Services\\FileService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:40:05.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:40:05.167Z"
             },
             {
               "$type": "Document",
@@ -275,8 +274,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Services\\FtpService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:41:36.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T07:41:36.875Z"
             },
             {
               "$type": "Document",
@@ -288,8 +286,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-02T02:51:56.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T02:51:56.406Z"
             },
             {
               "$type": "Document",
@@ -301,8 +298,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Services\\IFtpService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:31:45.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T07:31:45.423Z"
             },
             {
               "$type": "Document",
@@ -314,8 +310,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Services\\IFileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T06:27:56.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T06:27:56.168Z"
             },
             {
               "$type": "Document",
@@ -327,8 +322,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\DTOs\\HourData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:31:09.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T03:31:09.934Z"
             },
             {
               "$type": "Document",
@@ -340,8 +334,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\DTOs\\HourlyOrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T02:12:02.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T02:12:02.25Z"
             },
             {
               "$type": "Document",
@@ -353,8 +346,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Repositories\\DataRepository.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwDUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:54:24.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T01:54:24.418Z"
             },
             {
               "$type": "Document",
@@ -366,8 +358,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Repositories\\BatchRepository.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAA/wEIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:46:12.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T01:46:12.388Z"
             },
             {
               "$type": "Document",
@@ -379,8 +370,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Repositories\\IDataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:41:20.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T01:41:20.387Z"
             },
             {
               "$type": "Document",
@@ -392,8 +382,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Repositories\\IBatchRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:29:51.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T01:29:51.867Z"
             },
             {
               "$type": "Document",
@@ -405,8 +394,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Persistent\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T06:23:55.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T06:23:55.693Z"
             },
             {
               "$type": "Document",
@@ -418,8 +406,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Persistent\\LogDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:55:56.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:55:56.873Z"
             },
             {
               "$type": "Document",
@@ -431,8 +418,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Models\\BatchLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:44:30.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:44:30.232Z"
             },
             {
               "$type": "Document",
@@ -444,8 +430,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Services\\DataService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAswCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:39:52.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:39:52.465Z"
             },
             {
               "$type": "Document",
@@ -457,8 +442,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\DTOs\\SuntecDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:02:16.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:02:16.273Z"
             },
             {
               "$type": "Document",
@@ -470,8 +454,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Services\\IDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T02:56:44.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T02:56:44.304Z"
             },
             {
               "$type": "Document",
@@ -483,8 +466,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Persistent\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:59:39.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T01:59:39.734Z"
             },
             {
               "$type": "Document",
@@ -496,8 +478,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Models\\OrderItem.cs",
               "ViewState": "AgIAABkAAAAAAAAAAABYwDoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:58:17.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T01:58:17.823Z"
             },
             {
               "$type": "Document",
@@ -509,8 +490,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Models\\Order.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwEwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:54:47.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T01:54:47.221Z"
             },
             {
               "$type": "Document",
@@ -522,8 +502,7 @@
               "RelativeToolTip": "SchedulerApp.Worker\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwCEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:32:12.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T01:32:12.764Z"
             },
             {
               "$type": "Document",
@@ -533,7 +512,7 @@
               "RelativeDocumentMoniker": "SchedulerApp.Worker\\Worker.cs",
               "ToolTip": "C:\\Users\\Arif\\source\\repos\\SchedulerApp\\SchedulerApp.Worker\\Worker.cs",
               "RelativeToolTip": "SchedulerApp.Worker\\Worker.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA/wCQAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T01:32:04.014Z",
               "EditorCaption": ""

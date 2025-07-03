@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SchedulerApp.Worker/bin/Debug/net8.0
+/SchedulerApp.Worker/obj/Debug/net8.0
+.vs/SchedulerApp/v17/.suo
+.vs/SchedulerApp/v17/.suo
+SchedulerApp.Worker/obj/project.assets.json
+SchedulerApp.Worker/obj/project.nuget.cache
+/SchedulerApp.Worker/obj
