@@ -17,12 +17,12 @@ public class FileService : IFileService
 
     public async Task<string> GenerateFileAsync(IEnumerable<SuntecDto> data, DateTime date, int machineId)
     {
-        var filePath = Path.Combine(Path.GetTempPath(), $"{machineId}_{DateTime.Now:yyyyMMdd_HHmmss}.txt");
+        var filePath = Path.Combine(Path.GetTempPath(), $"{machineId}_{date:yyyyMMdd_HHmmss}.txt");
 
         using var writer = new StreamWriter(filePath);
         foreach (var item in data)
         {
-            var line = $"{item.MachineId}|{item.BatchId}|{item.Date}|{item.Hour}|{item.Receipt}|{item.GTOSales:F2}|{item.GST:F2}|{item.Discount:F2}|{item.Pax}";
+            var line = $"{item.MachineId}|{item.Date}|{item.BatchId}|{item.Hour}|{item.Receipt}|{item.GTOSales:F2}|{item.GST:F2}|{item.Discount:F2}|{item.Pax}";
             await writer.WriteLineAsync(line);
             _logger.LogInformation(line);
         }

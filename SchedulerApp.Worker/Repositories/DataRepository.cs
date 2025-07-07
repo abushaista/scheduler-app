@@ -42,6 +42,17 @@ public class DataRepository : IDataRepository
         try
         {
             var LocID = new Guid(locationId);
+            var qry = _context.Orders.Where(x => x.OrderDate.Date == date.Date && x.LocationID == LocID)
+                .GroupBy(o => o.OrderDate.Hour)
+                .Select(g => new HourlyOrderDTO
+                {
+                    Hour = g.Key,
+                    Date = date,
+                    Receipt = g.Count(),
+                    NetAmount = g.Sum(o => o.NetAmount),
+                    Gst = g.Sum(o => o.TaxAmount),
+                    Discount = g.Sum(o => o.DiscountAmount)
+                }).ToQueryString();
             var data = await _context.Orders.Where(x => x.OrderDate.Date == date.Date && x.LocationID == LocID)
                 .GroupBy(o => o.OrderDate.Hour)
                 .Select(g => new HourlyOrderDTO
